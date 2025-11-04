@@ -1,0 +1,43 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python files (if using Python)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Compiled files
+*.o
+*.class
+*.exe
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Backup files
+*~
+*.orig
